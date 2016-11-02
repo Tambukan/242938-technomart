@@ -1,0 +1,4 @@
+[Sun Oct 30 2016 21:11:55 GMT+0300 (RTZ 2 (зима))] layer "Обратная связь: mail@htmlacademy.ru": Unsupported extension: ru
+[Sun Oct 30 2016 21:11:55 GMT+0300 (RTZ 2 (зима))] layer "Разработано — htmlacademy.ru": Unsupported extension: ru
+[Sun Oct 30 2016 21:11:55 GMT+0300 (RTZ 2 (зима))] layer "Гарантия  Если купленный у нас товар поломается или заискрит,  ": Expected end of input but "," found.
+[Sun Oct 30 2016 21:11:55 GMT+0300 (RTZ 2 (зима))] layer "+7 (812) 555-05-55": Expected Either a default asset specification or a layer asset specification but "+" found.
